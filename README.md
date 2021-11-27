@@ -1,7 +1,7 @@
 # APPointment
  
 
-![alt text](https://github.com/APPointmentIL/APPointment/blob/master/pictures/APPointmentBanner.jpg
+![alt text](https://github.com/Ben-Hamami/APPointment/blob/main/pictures/APPointmentBanner.jpg
 )
 
 
@@ -57,6 +57,6 @@ Send automated confirmations, updates and reminders about upcoming sessions.
 
 
 
- <img src="https://github.com/APPointmentIL/APPointment/blob/master/pictures/small-linkedin-icon-28.jpg" width="18" height="18" /> [Nathanel Elkutski](https://www.linkedin.com/in/nathanel-elkutski-4639691ba/)
+ <img src="https://github.com/Ben-Hamami/APPointment/blob/main/pictures/small-linkedin-icon-28.jpg" width="18" height="18" /> [Nathanel Elkutski](https://www.linkedin.com/in/nathanel-elkutski-4639691ba/)
 
- <img src="https://github.com/APPointmentIL/APPointment/blob/master/pictures/small-linkedin-icon-28.jpg" width="18" height="18" /> [Ben Hamami](https://www.linkedin.com/in/ben-hamami-90512719a/)
+ <img src="https://github.com/Ben-Hamami/APPointment/blob/main/pictures/small-linkedin-icon-28.jpg" width="18" height="18" /> [Ben Hamami](https://www.linkedin.com/in/ben-hamami-90512719a/)
