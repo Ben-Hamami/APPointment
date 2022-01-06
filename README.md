@@ -50,3 +50,5 @@ Send automated confirmations, updates and reminders about upcoming sessions.
 * Create detailed member profiles
 
 * Reduce no-shows with SMS & notifications reminders
+
+# <img src="https://github.com/Ben-Hamami/APPointment/blob/main/pictures/small-linkedin-icon-28.jpg" width="16" height="16" /> [Ben Hamami](https://www.linkedin.com/in/ben-hamami-90512719a/)
