@@ -50,13 +50,3 @@ Send automated confirmations, updates and reminders about upcoming sessions.
 * Create detailed member profiles
 
 * Reduce no-shows with SMS & notifications reminders
-
-
-
-# Founders
-
-
-
- <img src="https://github.com/Ben-Hamami/APPointment/blob/main/pictures/small-linkedin-icon-28.jpg" width="18" height="18" /> [Nathanel Elkutski](https://www.linkedin.com/in/nathanel-elkutski-4639691ba/)
-
- <img src="https://github.com/Ben-Hamami/APPointment/blob/main/pictures/small-linkedin-icon-28.jpg" width="18" height="18" /> [Ben Hamami](https://www.linkedin.com/in/ben-hamami-90512719a/)
